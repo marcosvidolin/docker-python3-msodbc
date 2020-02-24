@@ -17,7 +17,7 @@ RUN apt-get update && \
 WORKDIR /opt/odbc
 
 # install MS ODBC
-COPY dependencies/installodbc.sh .
+COPY odbc/installodbc.sh .
 RUN ./installodbc.sh
 
 CMD ["/bin/bash"]
