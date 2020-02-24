@@ -1,0 +1,7 @@
+.git
+.cache
+Dockerfile
+.DS_Store
+.gitignore
+README.md
+LICENSE
