@@ -1,4 +1,4 @@
-# docker-python3-msodbc
+# pymsodbc
 
 A ready-to-use Docker image with Python3 and Microsoft ODBC Driver for SQL Server.
 
